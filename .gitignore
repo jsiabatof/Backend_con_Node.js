@@ -89,6 +89,7 @@ build/Release
 node_modules/
 jspm_packages/
 Mesa de trabajo.jpg
+README_Personal.md
 
 # TypeScript v1 declaration files
 typings/
