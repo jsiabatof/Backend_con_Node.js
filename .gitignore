@@ -88,7 +88,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-README-PERSONAL.md
+README_Personal.md
 Mesa de trabajo.jpg
 
 # TypeScript v1 declaration files
